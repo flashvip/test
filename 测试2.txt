@@ -1,4 +1,6 @@
-new fileddddddddddd
+﻿new fileddddddddddd
 ffffffffffff
 你好朋友
 测试16730
+
+MVN POM
